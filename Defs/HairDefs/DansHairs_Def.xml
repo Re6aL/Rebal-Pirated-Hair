@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Urban -->
+  
+  <HairDef>
+    <defName>Random_Xala</defName>
+    <label>xala</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Pawn/Humanlike/Urban/xala</texPath>
+		<hairTags>
+			<li>NoDefs</li>
+		</hairTags>
+  </HairDef> 
+  
+  <!-- References -->
+  
+  <HairDef>
+    <defName>Random_Freeman1</defName>
+    <label>freeman1</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Reference/freeman1</texPath>
+		<hairTags>
+			<li>NoDefs</li>
+		</hairTags>
+  </HairDef> 
+  
+  <HairDef>
+    <defName>Random_Freeman2</defName> <!--Aw man! You cut the ponytail!.. sellout.-->
+    <label>freeman2</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Reference/freeman2</texPath>
+		<hairTags>
+			<li>NoDefs</li>
+		</hairTags>
+  </HairDef> 
+  
+  <HairDef>
+    <defName>Random_Stalin</defName>
+    <label>stalin</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Reference/stalin</texPath>
+		<hairTags>
+			<li>NoDefs</li>
+		</hairTags>
+  </HairDef> 
+  
+  <HairDef>
+    <defName>Random_Bravo</defName>
+    <label>bravo1</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Reference/bravo</texPath>
+		<hairTags>
+			<li>NoDefs</li>
+		</hairTags>
+  </HairDef> 
+  
+  <HairDef>
+    <defName>Random_Bravoshades</defName>
+    <label>bravo2</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Reference/bravoshade</texPath>
+		<hairTags>
+			<li>NoDefs</li>
+		</hairTags>
+  </HairDef> 
+  
+  <HairDef>
+    <defName>Random_Mario</defName>
+    <label>plumber1</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Reference/mario</texPath>
+		<hairTags>
+			<li>NoDefs</li>
+		</hairTags>
+  </HairDef> 
+  
+  <HairDef>
+    <defName>Random_Luigi</defName>
+    <label>plumber2</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Reference/luigi</texPath>
+		<hairTags>
+			<li>NoDefs</li>
+		</hairTags>
+  </HairDef> 
+  
+  <HairDef>
+    <defName>Random_Ghandi</defName>
+    <label>gandhi</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Reference/ghandi</texPath>
+		<hairTags>
+			<li>NoDefs</li>
+		</hairTags>
+  </HairDef> 
+
+  
+  <HairDef>
+    <defName>Random_Pilot</defName>
+    <label>pilot</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Reference/pilot</texPath>
+		<hairTags>
+			<li>NoDefs</li>
+		</hairTags>
+  </HairDef> 
+  
+    <HairDef>
+    <defName>ro_m01</defName>
+    <label>ro_m01</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hairs/ro_m01</texPath>
+    <hairTags>
+      <li>Rural</li>
+      <li>Urban</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ro_m02</defName>
+    <label>ro_m02</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hairs/ro_m02</texPath>
+    <hairTags>
+      <li>Punk</li>
+      <li>Rural</li>
+      <li>Urban</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ro_f07</defName>
+    <label>ro_f07</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hairs/ro_f07</texPath>
+    <hairTags>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ro_f17</defName>
+    <label>ro_f17</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hairs/ro_f17</texPath>
+    <hairTags>
+      <li>Rural</li>
+      <li>Tribal</li>
+      <li>Urban</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ro_f23</defName>
+    <label>ro_f23</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hairs/ro_f23</texPath>
+    <hairTags>
+      <li>Urban</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ro_f24</defName>
+    <label>ro_f24</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hairs/ro_f24</texPath>
+    <hairTags>
+      <li>Punk</li>
+      <li>Rural</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ecc_sharpshooter</defName>
+    <label>ecc_sharpshooter</label>
+    <hairGender>Female</hairGender>
+    <texPath>Hairs/Sharpshooter</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
+  </HairDef>
+
+  </Defs>
