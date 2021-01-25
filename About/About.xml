@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 <name>Pirated Hair From Another Mods</name>
+<packageId>Rebal.Pirated.Hair</packageId>
 <author>REБAL</author>
 <url>https://github.com/Re6aL/Rebal-Pirated-Hair</url>
 <supportedVersions>
@@ -8,7 +9,12 @@
         <li>1.1</li>
         <li>1.2</li>
 </supportedVersions>
-<description>Fuck them all!
-atutu atutu atutu [in french]...</description>
-<packageId>Rebal.Pirated.Hair</packageId>
+<description>Too much of the stuff already, in every pack theres only a few interesting pieces, so why having to overhaul game too much? Carefully selected only the most interesting stuff put together by me, and all the unnecessary stuff deleted/disabled in Defs.
+Packs that got my attention:
+Odz
+...
+...
+[singing in red haired french language]:
+*uck them all!
+atutu atutu atutu...</description>
 </ModMetaData>

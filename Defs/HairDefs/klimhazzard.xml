@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<HairDef>
+    <label>Strife Spikes</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hairs/StrifeSpikes</texPath>
+    <defName>StrifeSpikes</defName>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+		</hairTags>
+  </HairDef>
+
+<HairDef>
+    <label>Triangle Spikes</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hairs/TriangleSpikes</texPath>
+    <defName>TriangleSpikes</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+  </HairDef>
+  
+<HairDef>
+    <label>Stampede</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hairs/Stampede</texPath>
+    <defName>Stampede</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+  </HairDef>
+
+</Defs>

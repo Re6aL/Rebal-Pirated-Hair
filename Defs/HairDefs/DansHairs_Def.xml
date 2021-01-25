@@ -24,15 +24,15 @@
 		</hairTags>
   </HairDef> 
   
-  <HairDef>
-    <defName>Random_Freeman2</defName> <!--Aw man! You cut the ponytail!.. sellout.-->
+  <!--HairDef>
+    <defName>Random_Freeman2</defName> 
     <label>freeman2</label>
     <hairGender>Male</hairGender>
     <texPath>Things/Pawn/Humanlike/Reference/freeman2</texPath>
 		<hairTags>
 			<li>NoDefs</li>
 		</hairTags>
-  </HairDef> 
+  </HairDef--> 
   
   <HairDef>
     <defName>Random_Stalin</defName>
@@ -55,16 +55,6 @@
   </HairDef> 
   
   <HairDef>
-    <defName>Random_Bravoshades</defName>
-    <label>bravo2</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Reference/bravoshade</texPath>
-		<hairTags>
-			<li>NoDefs</li>
-		</hairTags>
-  </HairDef> 
-  
-  <HairDef>
     <defName>Random_Mario</defName>
     <label>plumber1</label>
     <hairGender>Male</hairGender>
@@ -74,7 +64,7 @@
 		</hairTags>
   </HairDef> 
   
-  <HairDef>
+  <!--HairDef>
     <defName>Random_Luigi</defName>
     <label>plumber2</label>
     <hairGender>Male</hairGender>
@@ -82,7 +72,7 @@
 		<hairTags>
 			<li>NoDefs</li>
 		</hairTags>
-  </HairDef> 
+  </HairDef--> 
   
   <HairDef>
     <defName>Random_Ghandi</defName>
@@ -125,17 +115,6 @@
       <li>Punk</li>
       <li>Rural</li>
       <li>Urban</li>
-    </hairTags>
-  </HairDef>
-
-  <HairDef>
-    <defName>ro_f07</defName>
-    <label>ro_f07</label>
-    <hairGender>Female</hairGender>
-    <texPath>Hairs/ro_f07</texPath>
-    <hairTags>
-      <li>Rural</li>
-      <li>Tribal</li>
     </hairTags>
   </HairDef>
 

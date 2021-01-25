@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<HairDef>
+		<label>Reinhard</label>
+		<hairGender>Male</hairGender>
+		<texPath>LOGH/Reinhard</texPath>
+		<defName>Reinhard_Short</defName>
+			<hairTags>
+				<li>Urban</li>
+				<li>Royalty</li>
+				<li>Soldier</li>
+			</hairTags>
+	</HairDef>
+
+	<!--HairDef>
+		<label>ReinhardLong</label>
+		<hairGender>Male</hairGender>
+		<texPath>LOGH/LongRein</texPath>
+		<defName>Reinhard_Long</defName>
+			<hairTags>
+				<li>Urban</li>
+				<li>Royalty</li>
+			</hairTags>
+	</HairDef!-->
+	
+	<HairDef>
+		<label>Kircheis</label>
+		<hairGender>Male</hairGender>
+		<texPath>LOGH/Kircheis</texPath>
+		<defName>Kircheis</defName>
+			<hairTags>
+				<li>Urban</li>
+				<li>Royalty</li>
+				<li>Soldier</li>
+			</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Yang</label>
+		<hairGender>Male</hairGender>
+		<texPath>LOGH/Yang</texPath>
+		<defName>Yang</defName>
+			<hairTags>
+				<li>Urban</li>
+				<li>Rural</li>
+			</hairTags>
+	</HairDef>
+	
+	<HairDef>
+		<label>ObersteinColor</label>
+		<hairGender>Male</hairGender>
+		<texPath>LOGH/ObersteinColor</texPath>
+		<defName>ObersteinColor</defName>
+			<hairTags>
+				<li>Urban</li>
+				<li>Royalty</li>
+				<li>Soldier</li>
+			</hairTags>
+	</HairDef>
+
+	<!--HairDef>
+		<label>Oberstein</label>
+		<hairGender>Male</hairGender>
+		<texPath>LOGH/Oberstein</texPath>
+		<defName>Oberstein</defName>
+			<hairTags>
+				<li>Urban</li>
+				<li>Royalty</li>
+				<li>Soldier</li>
+			</hairTags>
+	</HairDef!-->
+
+	<HairDef>
+		<label>Reuenthal</label>
+		<hairGender>Male</hairGender>
+		<texPath>LOGH/Reuenthal</texPath>
+		<defName>Reuenthal</defName>
+			<hairTags>
+				<li>Urban</li>
+				<li>Royalty</li>
+				<li>Soldier</li>
+			</hairTags>
+	</HairDef>
+	
+	<HairDef>
+		<label>Mittermeyer</label>
+		<hairGender>Male</hairGender>
+		<texPath>LOGH/Mittermeyer</texPath>
+		<defName>Mittermeyer</defName>
+			<hairTags>
+				<li>Urban</li>
+				<li>Royalty</li>
+				<li>Soldier</li>
+			</hairTags>
+	</HairDef>
+
+</Defs>

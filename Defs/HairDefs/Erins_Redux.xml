@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<HairDef>
+		<label>Bowl Cut</label>
+		<hairGender>Any</hairGender>
+		<texPath>Hairs/bowlcut</texPath>
+		<defName>bowlcut</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Cutie Tails</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/cutietails</texPath>
+		<defName>cutietails</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Mia</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/mia</texPath>
+		<defName>mia</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Chowder</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hairs/chowder</texPath>
+		<defName>chowder</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+	<!--HairDef>
+		<label>Gueen's Gambit</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hairs/gambit</texPath>
+		<defName>gambit</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Kryssa</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/kryssa</texPath>
+		<defName>kryssa</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef-->
+
+	<HairDef>
+		<label>Down Low</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/downlow</texPath>
+		<defName>downlow</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Simple Braid</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/simplebraid</texPath>
+		<defName>simplebraid</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Lazy Pony</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/lazypony</texPath>
+		<defName>lazypony</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Twin Braids</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/twinbraids</texPath>
+		<defName>twinbraids</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	
+	<HairDef>
+		<label>Bab's Low Ponytail</label>
+		<hairGender>Any</hairGender>
+		<texPath>Hairs/babs</texPath>
+		<defName>babs</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	
+	<HairDef>
+		<label>Edgey</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hairs/edgey</texPath>
+		<defName>edgey</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	
+	<!--HairDef>
+		<label>Wavy Pigtails</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/wavypigtails</texPath>
+		<defName>wavypigtails</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef-->
+	
+	<HairDef>
+		<label>Straight Cut</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/straightcut</texPath>
+		<defName>straightcut</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	
+	<HairDef>
+		<label>Avee's Waves</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/aveeswaves</texPath>
+		<defName>aveeswaves</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	
+	<HairDef>
+		<label>Bed Hair</label>
+		<hairGender>Any</hairGender>
+		<texPath>Hairs/bedhair</texPath>
+		<defName>bedhair</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	
+	<!--HairDef>
+		<label>Low Tails</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/lowtails</texPath>
+		<defName>lowtails</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	
+	<HairDef>
+		<label>Neat 'n' Tidy</label>
+		<hairGender>Any</hairGender>
+		<texPath>Hairs/neatntidy</texPath>
+		<defName>neatntidy</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef-->
+
+</Defs>

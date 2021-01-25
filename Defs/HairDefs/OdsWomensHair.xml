@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+ <HairDef>
+    <defName>Erika22</defName>
+    <label>Erika</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Hair/Erika</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+		</hairTags>
+  </HairDef>
+
+</Defs>

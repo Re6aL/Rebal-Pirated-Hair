@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<HairDef>
+		<label>Crow</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hairs/Crow</texPath>
+		<defName>Crow</defName>
+			<hairTags>
+				<li>Urban</li>
+			</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Joker</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hairs/Joker</texPath>
+		<defName>Joker</defName>
+			<hairTags>
+				<li>Urban</li>
+			</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Queen</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hairs/Queen</texPath>
+		<defName>Queen</defName>
+			<hairTags>
+				<li>Urban</li>
+			</hairTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Skull</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hairs/Skull</texPath>
+		<defName>Skull</defName>
+			<hairTags>
+				<li>Urban</li>
+			</hairTags>
+	</HairDef>
+
+</Defs>
