@@ -1,24 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
-<!-- Thanks for downloading my mod! -->
-<!-- FEMALE HAIRSTYLES -->
-<!-- Vintage Hairstyle -->
-  
-  <!--HairDef>
-    <defName>Rubys_Test_Hair_Vintage</defName>
-    <label>RBA Bow Medium</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Vintage</texPath>
-		<hairTags>
-			<li>Rural</li>
-			<li>Royal</li>
-			<li>Urban</li>
-		</hairTags>
-  </HairDef --> 
-       
 <!-- Headband Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Headband</defName>
     <label>RBA Headband</label>
@@ -31,7 +14,6 @@
   </HairDef> 
 
 <!-- Meansbusiness Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Meansbusiness</defName>
     <label>RBA Headband 2</label>
@@ -42,9 +24,8 @@
 			<li>Punk</li>
 		</hairTags>
   </HairDef> 
-  
-  <!-- Bandana Hairstyle -->
-  
+
+<!-- Bandana Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Bandana</defName>
     <label>RBA Bandana</label>
@@ -56,9 +37,8 @@
 			<li>Punk</li>
 		</hairTags>
   </HairDef> 
-  
-    <!-- Bandana2 Hairstyle -->
-  
+
+<!-- Bandana2 Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Bandana2</defName>
     <label>RBA Bandana 2</label>
@@ -69,9 +49,8 @@
 			<li>Punk</li>
 		</hairTags>
   </HairDef> 
-  
-    <!-- Eyescarfemale Hairstyle -->
-  
+
+<!-- Eyescarfemale Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Eyescarfemale</defName>
     <label>RBA Eye Scar</label>
@@ -82,8 +61,7 @@
 		</hairTags>
   </HairDef> 
 
-      <!-- Eyepatch Hairstyle -->
-  
+<!-- Eyepatch Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_eyepatch</defName>
     <label>RBA Eye Patch 2</label>
@@ -94,9 +72,8 @@
 			<li>Urban</li>
 		</hairTags>
   </HairDef> 
-  
-      <!-- Goggles Hairstyle -->
-  
+
+<!-- Goggles Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Goggles</defName>
     <label>RBA Goggles</label>
@@ -107,9 +84,8 @@
 			<li>Punk</li>
 		</hairTags>
   </HairDef> 
-  
-        <!-- Headset Hairstyle -->
-  
+
+<!-- Headset Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Headset</defName>
     <label>RBA Headset</label>
@@ -122,7 +98,6 @@
   </HairDef> 
 
 <!-- Scarf Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Scarf</defName>
     <label>RBA Scarf</label>
@@ -135,7 +110,6 @@
   </HairDef> 
   
 <!-- Sockhat Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Sockhat</defName>
     <label>RBA Sock Hat</label>
@@ -149,7 +123,6 @@
   </HairDef> 
 
 <!-- Surgicaleyepatch Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Surgicaleyepatch</defName>
     <label>RBA Eye Pad</label>
@@ -163,7 +136,6 @@
 </HairDef>
 
 <!-- Surgicalmask Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Surgicalmask</defName>
     <label>RBA Doctor Mask</label>
@@ -177,7 +149,6 @@
 </HairDef>
 
 <!-- Tightbackbow Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Tightbackbow</defName>
     <label>RBA Bow Ponytail</label>
@@ -191,7 +162,6 @@
 </HairDef>
 
 <!-- Turban Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Turban</defName>
     <label>RBA Turban</label>
@@ -204,21 +174,7 @@
 		</hairTags>
 </HairDef>
 
-<!-- Balaclava Hairstyle -->
-  
-  <!--HairDef>
-    <defName>Rubys_Test_Hair_Balaclava</defName>
-    <label>RBA Balaclava</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Balaclava</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Punk</li>
-		</hairTags>
-</HairDef>
-
 <!-- Headphones Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Headphones</defName>
     <label>RBA Headphones</label>
@@ -229,9 +185,9 @@
 			<li>Punk</li>
 		</hairTags>
 </HairDef>
-           <!-- MALE HAIR -->   
-  <!-- Cool Hairstyle -->
-  
+
+<!-- MALE HAIR -->   
+<!-- Cool Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Cool</defName>
     <label>RBA Sunglasses</label>
@@ -242,9 +198,8 @@
 			<li>Rural</li>
 		</hairTags>
   </HairDef>
-  
-    <!-- Bandanamale Hairstyle -->
-  
+
+<!-- Bandanamale Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Bandanamale</defName>
     <label>RBA Bandana</label>
@@ -256,9 +211,8 @@
 			<li>Punk</li>
 		</hairTags>
   </HairDef>
-  
-      <!-- Bandanamale2 Hairstyle -->
-  
+ 
+ <!-- Bandanamale2 Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Bandanamale2</defName>
     <label>RBA Bandana 2</label>
@@ -270,9 +224,8 @@
 			<li>Punk</li>
 		</hairTags>
   </HairDef>
-  
-        <!-- eyepatchmale Hairstyle -->
-  
+
+<!-- eyepatchmale Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Eyepatchmale</defName>
     <label>RBA Eyepatch</label>
@@ -283,9 +236,8 @@
 			<li>Punk</li>
 		</hairTags>
   </HairDef>
-  
-          <!-- Gogglesmale Hairstyle -->
-  
+
+<!-- Gogglesmale Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Gogglesmale</defName>
     <label>RBA Goggles</label>
@@ -296,7 +248,8 @@
 			<li>Punk</li>
 		</hairTags>
   </HairDef>
-              <!-- Maleplasters Hairstyle -->
+
+<!-- Maleplasters Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Maleplasters</defName>
     <label>RBA Bandages</label>
@@ -309,7 +262,7 @@
 		</hairTags>
   </HairDef>
   
-                <!-- Mohawkeyepatch Hairstyle -->
+<!-- Mohawkeyepatch Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Mohawkeyepatch</defName>
     <label>RBA Eyepatch 2</label>
@@ -319,8 +272,8 @@
 			<li>Punk</li>
 		</hairTags>
   </HairDef>
- <!-- Headbandmale Hairstyle -->
   
+ <!-- Headbandmale Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Headbandmale</defName>
     <label>RBA Headband</label>
@@ -334,7 +287,6 @@
 </HairDef>
 
 <!-- Sockhatmale Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Sockhatmale</defName>
     <label>RBA Sock Hat</label>
@@ -348,7 +300,6 @@
 </HairDef>
 
 <!-- Surgicalmaskmale Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Surgicalmaskmale</defName>
     <label>RBA Doctor Mask</label>
@@ -362,7 +313,6 @@
 </HairDef>
 
 <!-- Surgicaleyepatchmale Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Surgicaleyepatchmale</defName>
     <label>RBA Eye Pad</label>
@@ -374,19 +324,6 @@
 			<li>Punk</li>
 		</hairTags>
 </HairDef>
-
-<!-- Balaclavamale Hairstyle -->
-  
-  <!--HairDef>
-    <defName>Rubys_Test_Hair_Balaclavamale</defName>
-    <label>RBA Balaclava</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Balaclavamale</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Punk</li>
-		</hairTags>
-</HairDef-->
 
 <!-- Eyescar Hairstyle -->
   <HairDef>
@@ -401,8 +338,7 @@
 </HairDef>
 
 <!-- Headphonesmale Hairstyle -->
-  
-  <HairDef>
+    <HairDef>
     <defName>Rubys_Test_Hair_Headphonesmale</defName>
     <label>RBA Headphones</label>
     <hairGender>Male</hairGender>
@@ -414,8 +350,7 @@
 </HairDef>
 
 <!-- Turbanmale Hairstyle -->
-  
-  <HairDef>
+    <HairDef>
     <defName>Rubys_Test_Hair_Turbanmale</defName>
     <label>RBA Turban</label>
     <hairGender>Male</hairGender>
@@ -430,7 +365,6 @@
 </HairDef>
 
 <!-- Sportsheadband Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Sportsheadband</defName>
     <label>RBA Sports Band</label>
@@ -444,7 +378,6 @@
 </HairDef>
 
 <!-- Bandaids Hairstyle -->
-  
   <HairDef>
     <defName>Rubys_Test_Hair_Bandaids</defName>
     <label>RBA Plasters</label>

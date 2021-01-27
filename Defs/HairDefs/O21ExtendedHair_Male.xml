@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <HairDef>
+		<defName>O21_Fade</defName>
+		<label>Fade</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Fade</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+    <HairDef>
+		<defName>O21_Soap</defName>
+		<label>Soap</label>
+		<hairGender>MaleUsually</hairGender>
+		<texPath>ExtendedHair/Male/Soap</texPath>
+		<hairTags>
+			<li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+	
+    <HairDef>
+		<defName>O21_Fancy</defName>
+		<label>Fancy</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Fancy</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+    <HairDef>
+		<defName>O21_Wavy</defName>
+		<label>Wavy</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Wavy</texPath>
+		<hairTags>
+			<li>Urban</li>
+            <li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+</Defs>
