@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
-<!-- Headband Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Headband</defName>
-    <label>RBA Headband</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Headband</texPath>
-		<hairTags>
-			<li>Rural</li>
-			<li>Urban</li>
-		</hairTags>
-  </HairDef> 
-
 <!-- Meansbusiness Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Meansbusiness</defName>
@@ -50,123 +38,12 @@
 		</hairTags>
   </HairDef> 
 
-<!-- Eyescarfemale Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Eyescarfemale</defName>
-    <label>RBA Eye Scar</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Eyescarfemale</texPath>
-		<hairTags>
-			<li>Punk</li>
-		</hairTags>
-  </HairDef> 
-
-<!-- Eyepatch Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_eyepatch</defName>
-    <label>RBA Eye Patch 2</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/eyepatch</texPath>
-		<hairTags>
-			<li>Punk</li>
-			<li>Urban</li>
-		</hairTags>
-  </HairDef> 
-
-<!-- Goggles Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Goggles</defName>
-    <label>RBA Goggles</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Goggles</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Punk</li>
-		</hairTags>
-  </HairDef> 
-
-<!-- Headset Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Headset</defName>
-    <label>RBA Headset</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Headset</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Punk</li>
-		</hairTags>
-  </HairDef> 
-
-<!-- Scarf Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Scarf</defName>
-    <label>RBA Scarf</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Scarf</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
-  </HairDef> 
-  
-<!-- Sockhat Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Sockhat</defName>
-    <label>RBA Sock Hat</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Sockhat</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Punk</li>
-		</hairTags>
-  </HairDef> 
-
-<!-- Surgicaleyepatch Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Surgicaleyepatch</defName>
-    <label>RBA Eye Pad</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Surgicaleyepatch</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Punk</li>
-		</hairTags>
-</HairDef>
-
-<!-- Surgicalmask Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Surgicalmask</defName>
-    <label>RBA Doctor Mask</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Surgicalmask</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Punk</li>
-		</hairTags>
-</HairDef>
-
 <!-- Tightbackbow Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Tightbackbow</defName>
     <label>RBA Bow Ponytail</label>
     <hairGender>Female</hairGender>
     <texPath>Things/Pawn/Humanlike/Hair/Tightbackbow</texPath>
-		<hairTags>
-			<li>Tribal</li>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
-</HairDef>
-
-<!-- Turban Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Turban</defName>
-    <label>RBA Turban</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Turban</texPath>
 		<hairTags>
 			<li>Tribal</li>
 			<li>Urban</li>
@@ -198,19 +75,6 @@
 			<li>Rural</li>
 		</hairTags>
   </HairDef>
-
-<!-- Bandanamale Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Bandanamale</defName>
-    <label>RBA Bandana</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Bandanamale</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Punk</li>
-		</hairTags>
-  </HairDef>
  
  <!-- Bandanamale2 Hairstyle -->
   <HairDef>
@@ -221,30 +85,6 @@
 		<hairTags>
 			<li>Urban</li>
 			<li>Rural</li>
-			<li>Punk</li>
-		</hairTags>
-  </HairDef>
-
-<!-- eyepatchmale Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Eyepatchmale</defName>
-    <label>RBA Eyepatch</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Eyepatchmale</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Punk</li>
-		</hairTags>
-  </HairDef>
-
-<!-- Gogglesmale Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Gogglesmale</defName>
-    <label>RBA Goggles</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Gogglesmale</texPath>
-		<hairTags>
-			<li>Urban</li>
 			<li>Punk</li>
 		</hairTags>
   </HairDef>
@@ -299,32 +139,6 @@
 		</hairTags>
 </HairDef>
 
-<!-- Surgicalmaskmale Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Surgicalmaskmale</defName>
-    <label>RBA Doctor Mask</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Surgicalmaskmale</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Punk</li>
-		</hairTags>
-</HairDef>
-
-<!-- Surgicaleyepatchmale Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Surgicaleyepatchmale</defName>
-    <label>RBA Eye Pad</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Surgicaleyepatchmale</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Punk</li>
-		</hairTags>
-</HairDef>
-
 <!-- Eyescar Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Eyescar</defName>
@@ -337,17 +151,6 @@
 		</hairTags>
 </HairDef>
 
-<!-- Headphonesmale Hairstyle -->
-    <HairDef>
-    <defName>Rubys_Test_Hair_Headphonesmale</defName>
-    <label>RBA Headphones</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Headphonesmale</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Punk</li>
-		</hairTags>
-</HairDef>
 
 <!-- Turbanmale Hairstyle -->
     <HairDef>
@@ -361,32 +164,6 @@
 			<li>Rural</li>
 			<li>Punk</li>
 			<li>Royal</li>
-		</hairTags>
-</HairDef>
-
-<!-- Sportsheadband Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Sportsheadband</defName>
-    <label>RBA Sports Band</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Sportsheadband</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Punk</li>
-		</hairTags>
-</HairDef>
-
-<!-- Bandaids Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Bandaids</defName>
-    <label>RBA Plasters</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Bandaids</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Punk</li>
 		</hairTags>
 </HairDef>
 

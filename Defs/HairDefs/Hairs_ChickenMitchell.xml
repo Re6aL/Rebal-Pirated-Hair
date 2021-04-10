@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+
+  <HairDef>
+    <defName>CP_Hair_BigBoss</defName>
+    <label>Big Boss</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/BigBoss</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_MSF_Boss</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>CP_Hair_Boon</defName>
+    <label>Boon</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Boon</texPath>
+    <hairTags>
+      <!--<li>Urban</li>
+      <li>Rural</li>-->
+      <li>RH_OperatorMale</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>CP_Hair_Cassie</defName>
+    <label>Cassie</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Cassie</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Punk</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>CP_Hair_Ellie</defName>
+    <label>Ellie</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Ellie</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+      <li>RH_Female_Military</li>
+      <li>RH_MilScenario</li>
+    </hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>CP_Hair_Frazer</defName>
+    <label>Frazer</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Frazer</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+      <li>RH_Female_Military</li>
+      <li>RH_Barbie</li>
+      <li>RH_MilScenario</li>
+    </hairTags>
+  </HairDef>  
+
+  <HairDef>
+    <defName>CP_Hair_Hairbun_Donut</defName>
+    <label>Hair Bun</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Hairbun</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_SF_Female</li>
+      <li>RH_Military_Female</li>
+    </hairTags>
+  </HairDef>
+
+<HairDef>
+    <defName>CP_Hair_Joel</defName>
+    <label>Joel</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Joel</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_MilScenario_Lads</li>
+    </hairTags>
+</HairDef>
+
+<HairDef>
+    <defName>CP_Hair_JohnWick_Messy</defName>
+    <label>Wick</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/JohnWick</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_MSF_Boss</li>
+    </hairTags>
+</HairDef>
+
+<HairDef>
+    <defName>CP_Hair_Supergirl</defName>
+    <label>Kara</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Kara</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Punk</li>
+      <li>Rural</li>
+      <li>RH_Barbie</li>
+      <li>RH_MilScenario</li>
+    </hairTags>
+</HairDef>
+
+<HairDef>
+    <defName>CP_Hair_Karma</defName>
+    <label>Karma</label>
+    <hairGender>Any</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Karma</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Tribal</li>
+      <li>RH_OperatorFemale</li>
+    </hairTags>
+</HairDef>
+
+<HairDef>
+    <defName>CP_Hair_SolidSnake_NoBeard</defName>
+    <label>Liquid Snake</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/LiquidSnake</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_FOX</li>
+      <li>RH_FOX_LiquidSnake</li>
+    </hairTags>
+</HairDef>
+
+<HairDef>
+    <defName>CP_Hair_Miller</defName>
+    <label>Miller</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Miller</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_MSF_Miller</li>
+    </hairTags>
+</HairDef>
+
+<HairDef>
+    <defName>CP_Hair_Quiet</defName>
+    <label>Quiet</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Quiet</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_Female_Military</li>
+      <li>RH_MilScenario</li>
+    </hairTags>
+</HairDef>
+
+<HairDef>
+    <defName>CP_Hair_ScreamingMantis</defName>
+    <label>Screaming Mantis</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/ScreamingMantis</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_BnB_Unit</li>
+      <li>RH_BnB_ScreamingMantis</li>
+    </hairTags>
+</HairDef>  
+
+<HairDef>
+    <defName>CP_Hair_EliteCrew_Dad_I_NoBeard</defName>
+    <label>Slick</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Slick</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_MilScenario_Lads</li>
+    </hairTags>
+</HairDef>
+
+<HairDef>
+    <defName>CP_Hair_SolidSnake_SOL</defName>
+    <label>Solid Snake 2</label>
+    <hairGender>Male</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/SolidSnake</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
+</HairDef>  
+
+<HairDef>
+    <defName>CP_Hair_SolidSnake_MGS</defName>
+    <label>Solid Snake 1</label>
+    <hairGender>Any</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/SolidSnake_MGS1</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_FOX</li>
+      <li>RH_FOX_SolidSnake</li>
+    </hairTags>
+</HairDef> 
+
+<HairDef>
+    <defName>CP_Hair_Tracer</defName>
+    <label>Tracer</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Tracer</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Punk</li>
+      <li>Rural</li>
+    </hairTags>
+</HairDef>
+
+<HairDef>
+    <defName>CP_Hair_Zoey</defName>
+    <label>Zoey</label>
+    <hairGender>Female</hairGender>
+    <texPath>Things/Pawn/Humanlike/Hair/Zoey</texPath>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>RH_Female_Military</li>
+    </hairTags>
+</HairDef>
+
+</Defs>
