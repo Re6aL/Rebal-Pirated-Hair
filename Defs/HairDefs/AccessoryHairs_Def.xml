@@ -26,18 +26,6 @@
 		</hairTags>
   </HairDef> 
 
-<!-- Bandana2 Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Bandana2</defName>
-    <label>RBA Bandana 2</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Bandana2</texPath>
-		<hairTags>
-			<li>Rural</li>
-			<li>Punk</li>
-		</hairTags>
-  </HairDef> 
-
 <!-- Headphones Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Headphones</defName>
