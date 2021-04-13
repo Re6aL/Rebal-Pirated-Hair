@@ -38,19 +38,6 @@
 		</hairTags>
   </HairDef> 
 
-<!-- Tightbackbow Hairstyle -->
-  <HairDef>
-    <defName>Rubys_Test_Hair_Tightbackbow</defName>
-    <label>RBA Bow Ponytail</label>
-    <hairGender>Female</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Tightbackbow</texPath>
-		<hairTags>
-			<li>Tribal</li>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
-</HairDef>
-
 <!-- Headphones Hairstyle -->
   <HairDef>
     <defName>Rubys_Test_Hair_Headphones</defName>
@@ -148,22 +135,6 @@
 		<hairTags>
 			<li>Urban</li>
 			<li>Punk</li>
-		</hairTags>
-</HairDef>
-
-
-<!-- Turbanmale Hairstyle -->
-    <HairDef>
-    <defName>Rubys_Test_Hair_Turbanmale</defName>
-    <label>RBA Turban</label>
-    <hairGender>Male</hairGender>
-    <texPath>Things/Pawn/Humanlike/Hair/Turbanmale</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Tribal</li>
-			<li>Rural</li>
-			<li>Punk</li>
-			<li>Royal</li>
 		</hairTags>
 </HairDef>
 

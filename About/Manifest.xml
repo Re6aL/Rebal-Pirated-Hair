@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>RebalPiratedHair</identifier>
+  <version>1.0.0.2</version>
+  <dependencies></dependencies>
+  <incompatibleWith>
+    <li>2278578765</li> <!-- galactic -->
+    <li>2023338203</li> <!-- randoms random -->
+    <li>725447220</li> <!-- spoon -->
+  </incompatibleWith>
+  <loadBefore></loadBefore>
+  <loadAfter></loadAfter>
+  <suggests></suggests>
+  <showCrossPromotions>true</showCrossPromotions>
+  <manifestUri>https://raw.githubusercontent.com/Re6aL/Rebal-Pirated-Hair/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/Re6aL/Rebal-Pirated-Hair.git</downloadUri>
+</Manifest>
